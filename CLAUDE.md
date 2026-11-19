@@ -1,6 +1,6 @@
 # AI Usage Dashboard
 
-LLM API çağrılarını izleyen panel: istek sayısı, token, maliyet, model dağılımı, cevap süresi, hata oranı.
+LLM API çağrılarını izleyen panel: istek sayısı, token, maliyet, model dağılımı, hata oranı, kademe karşılaştırması ("aynı token'lar başka modelde ne tutardı").
 
 ## Teknoloji
 React 19 + TypeScript + Vite 8 + Tailwind CSS v4. Sonraki adımlarda: React Router, Recharts, Zustand, TanStack Query/Table, Vitest.
